@@ -1,0 +1,212 @@
+
+@media only screen and (min-width: 150px) and (max-width: 349px)  {
+
+    #stage-caption {
+        font-weight: 200;
+        text-align: center;
+        padding: 5.5em 0.8rem;
+        margin-bottom: 0;
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    #stage-caption h1 {
+        margin: 0.1rem;
+        font-size: 1.8rem;
+    }
+
+    #stage-caption p {
+        font-size: 0.95rem;
+        text-align: center;
+        padding: 1rem 0.5rem;
+    }
+
+   .feature-content {
+        padding: 0.6rem;
+        margin: 0.5rem;
+    }
+
+    .feature-content h6 {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    #feature-five {
+        background-color: lightgrey;
+        padding: 2.5rem 0.5rem 0.01rem 0.5rem;
+        width: 100%;
+    }
+
+    #feature-five img {
+        padding: 1.5rem 1rem;
+        margin: 0 auto;
+    }
+
+    #main-footer {
+        padding: 2rem 0;
+    }
+
+    #main-footer h6 {
+        font-size: 0.9rem;
+    }
+
+    #main-footer a {
+        font-size: 0.655rem;
+    }
+
+}
+
+@media only screen and (min-width: 350px) and (max-width: 400px)  {
+
+    #stage-caption {
+        padding: 6em 0.5rem;
+        margin-bottom: 0;
+    }
+
+    #stage-caption h1 {
+        font-size: 2rem;
+    }
+
+    #stage-caption p {
+        font-size: 1rem;
+        padding: 0.8rem 0.3rem;
+    }
+
+    #feature-one .feature-content {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    #feature-three .feature-content {
+        margin: 1rem;
+        padding: 0.5rem;
+    }
+
+    #feature-five {
+        background-color: lightgrey;
+        padding: 0.1rem;
+    }
+
+    #main-footer {
+        padding: 1.65rem 1.25rem;
+    }
+
+}
+
+@media only screen and (min-width: 401px) and (max-width: 550px)  {
+
+    #stage-caption {
+        padding: 7.5em 0.5rem;
+    }
+
+    #stage-caption h1 {
+        font-size: 2.25rem;
+    }
+
+    #stage-caption p {
+        font-size: 1.2rem;
+        padding: 0.6rem 0.3rem;
+    }
+
+    #feature-one .feature-content {
+        margin-top: 1.2rem;
+        margin-bottom: 1.2rem;
+        padding-top: 1.2rem;
+        padding-bottom: 1.2rem;
+    }
+
+    #feature-five {
+        background-color: lightgrey;
+    }
+
+    #main-footer {
+        padding: 1.75rem 1.35rem;
+    }
+
+}
+
+
+@media only screen and (min-width: 551px) and (max-width: 750px)  {
+
+    #stage-caption {
+        padding: 6.5em 0.75rem;
+    }
+
+    #stage-caption h1 {
+        font-size: 2.75rem;
+    }
+
+    #stage-caption p {
+        font-size: 1.15rem;
+        padding: 0.7rem 0.4rem;
+    }
+
+    #feature-one .feature-content {
+        margin-top: 1.5rem;
+        margin-bottom: 1.2rem;
+        padding-top: 1.5rem;
+        padding-bottom: 1.2rem;
+    }
+
+    #feature-five {
+        background-color: lightgrey;
+    }
+
+    #main-footer {
+        padding: 1.80rem 1.45rem;
+    }
+
+}
+
+@media only screen and (min-width: 751px) and (max-width: 950px)  {
+
+
+    #stage-caption {
+        padding: 8.5em 0.95rem;
+    }
+
+    #stage-caption h1 {
+        font-size: 3.15rem;
+    }
+
+    #stage-caption p {
+        font-size: 1.25rem;
+        padding: 0.7rem 0.4rem;
+    }
+
+    #feature-five {
+        background-color: lightgrey;
+    }
+
+    #main-footer {
+        padding: 1.70rem 1.25rem;
+    }
+
+}
+
+
+@media screen and (min-width: 991px) {
+
+    .feature-content {
+        display: flex;
+        align-items: center;
+    }
+
+    .btn {
+        outline: none;
+        background-color: #5bc0de;
+        color: white;
+    }
+
+}
+
+
+
+
+
+
+
